@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "3x3_Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3x3_Matrix-Debug-46d4f7877df7803e3ee9.json",
+					"name" : "3x3_Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fill_a_square_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fill_a_square_matrix-Debug-b49f2f871204b3517c7e.json",
+					"name" : "fill_a_square_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "highest_marks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-highest_marks-Debug-811fb46b60b09bb4c641.json",
+					"name" : "highest_marks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "insert_an_element_in_an_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-insert_an_element_in_an_Array-Debug-afb15d2c9c67b5b4eb2b.json",
+					"name" : "insert_an_element_in_an_Array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug",
+		"source" : "C:/Users/Swapnil/CLionProjects/DSA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

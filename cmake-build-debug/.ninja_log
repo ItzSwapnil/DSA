@@ -1,0 +1,13 @@
+# ninja log v5
+3	117	7222582225455458	CMakeFiles/Circular.dir/Circular.c.obj	96e84c9ea0413f47
+128	277	7222581931705872	Singly.exe	60904a3b1451c719
+118	256	7222582226785516	Circular.exe	6c4e79dcd3b2983e
+2	127	7222581930285838	CMakeFiles/Singly.dir/Singly.c.obj	232e0940bc8ffabc
+3	117	7226159693930828	CMakeFiles/insert_an_element_in_an_Array.dir/insert_an_element_in_an_Array.c.obj	1a0585b3f155b6de
+102	244	7226164537946106	highest_marks.exe	72b663fbb359ca7b
+118	235	7226159695049995	insert_an_element_in_an_Array.exe	47218b21d23ac6ca
+2	101	7226164536587273	CMakeFiles/highest_marks.dir/highest_marks.c.obj	9568708d8545d517
+0	105	7226165785989111	CMakeFiles/3x3_Matrix.dir/3x3_Matrix.c.obj	dcada3d91ebe3dd3
+105	238	7226165787255044	3x3_Matrix.exe	55e72fa7b6ba5a0d
+0	99	7226169265458166	CMakeFiles/fill_a_square_matrix.dir/fill_a_square_matrix.c.obj	f1202005dfc9bd04
+100	240	7226169266828046	fill_a_square_matrix.exe	3c653f0c1012dbef
