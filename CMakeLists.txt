@@ -12,3 +12,6 @@ add_executable(6.Circular_Linked_List 6.Circular_Linked_List.c)
 
 add_executable(7.Double_Linked_List 7.Double_Linked_List.c)
 add_executable(8.Store_Polynomial 8.Store_Polynomial.c)
+add_executable(9.Stack_Using_Array 9.Stack_Using_Array.c)
+add_executable(10.Stack_using_Linked_List 10.Stack_using_Linked_List.c)
+add_executable(11.Prefix_Expression 11.Prefix_Expression.c)

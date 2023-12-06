@@ -304,6 +304,105 @@ build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CM
   TARGET_IMPLIB = lib8.Store_Polynomial.dll.a
   TARGET_PDB = 8.Store_Polynomial.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 9.Stack_Using_Array
+
+
+#############################################
+# Order-only phony target for 9.Stack_Using_Array
+
+build cmake_object_order_depends_target_9.Stack_Using_Array: phony || CMakeFiles/9.Stack_Using_Array.dir
+
+build CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj: C_COMPILER__9.2eStack_Using_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/9.Stack_Using_Array.c || cmake_object_order_depends_target_9.Stack_Using_Array
+  DEP_FILE = CMakeFiles\9.Stack_Using_Array.dir\9.Stack_Using_Array.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
+  OBJECT_FILE_DIR = CMakeFiles\9.Stack_Using_Array.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 9.Stack_Using_Array
+
+
+#############################################
+# Link the executable 9.Stack_Using_Array.exe
+
+build 9.Stack_Using_Array.exe: C_EXECUTABLE_LINKER__9.2eStack_Using_Array_Debug CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 9.Stack_Using_Array.exe
+  TARGET_IMPLIB = lib9.Stack_Using_Array.dll.a
+  TARGET_PDB = 9.Stack_Using_Array.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10.Stack_using_Linked_List
+
+
+#############################################
+# Order-only phony target for 10.Stack_using_Linked_List
+
+build cmake_object_order_depends_target_10.Stack_using_Linked_List: phony || CMakeFiles/10.Stack_using_Linked_List.dir
+
+build CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj: C_COMPILER__10.2eStack_using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/10.Stack_using_Linked_List.c || cmake_object_order_depends_target_10.Stack_using_Linked_List
+  DEP_FILE = CMakeFiles\10.Stack_using_Linked_List.dir\10.Stack_using_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10.Stack_using_Linked_List
+
+
+#############################################
+# Link the executable 10.Stack_using_Linked_List.exe
+
+build 10.Stack_using_Linked_List.exe: C_EXECUTABLE_LINKER__10.2eStack_using_Linked_List_Debug CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 10.Stack_using_Linked_List.exe
+  TARGET_IMPLIB = lib10.Stack_using_Linked_List.dll.a
+  TARGET_PDB = 10.Stack_using_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11.Prefix_Expression
+
+
+#############################################
+# Order-only phony target for 11.Prefix_Expression
+
+build cmake_object_order_depends_target_11.Prefix_Expression: phony || CMakeFiles/11.Prefix_Expression.dir
+
+build CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj: C_COMPILER__11.2ePrefix_Expression_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/11.Prefix_Expression.c || cmake_object_order_depends_target_11.Prefix_Expression
+  DEP_FILE = CMakeFiles\11.Prefix_Expression.dir\11.Prefix_Expression.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
+  OBJECT_FILE_DIR = CMakeFiles\11.Prefix_Expression.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11.Prefix_Expression
+
+
+#############################################
+# Link the executable 11.Prefix_Expression.exe
+
+build 11.Prefix_Expression.exe: C_EXECUTABLE_LINKER__11.2ePrefix_Expression_Debug CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 11.Prefix_Expression.exe
+  TARGET_IMPLIB = lib11.Prefix_Expression.dll.a
+  TARGET_PDB = 11.Prefix_Expression.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -332,6 +431,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 1.insert_an_element_in_an_Array: phony 1.insert_an_element_in_an_Array.exe
 
+build 10.Stack_using_Linked_List: phony 10.Stack_using_Linked_List.exe
+
+build 11.Prefix_Expression: phony 11.Prefix_Expression.exe
+
 build 2.highest_marks: phony 2.highest_marks.exe
 
 build 3.3x3_Matrix: phony 3.3x3_Matrix.exe
@@ -346,6 +449,8 @@ build 7.Double_Linked_List: phony 7.Double_Linked_List.exe
 
 build 8.Store_Polynomial: phony 8.Store_Polynomial.exe
 
+build 9.Stack_Using_Array: phony 9.Stack_Using_Array.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -354,7 +459,7 @@ build 8.Store_Polynomial: phony 8.Store_Polynomial.exe
 #############################################
 # Folder: C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug
 
-build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_Matrix.exe 4.fill_a_square_matrix.exe 5.Single_Linked_List.exe 6.Circular_Linked_List.exe 7.Double_Linked_List.exe 8.Store_Polynomial.exe
+build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_Matrix.exe 4.fill_a_square_matrix.exe 5.Single_Linked_List.exe 6.Circular_Linked_List.exe 7.Double_Linked_List.exe 8.Store_Polynomial.exe 9.Stack_Using_Array.exe 10.Stack_using_Linked_List.exe 11.Prefix_Expression.exe
 
 # =============================================================================
 # Built-in targets
