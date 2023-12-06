@@ -41,136 +41,268 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target insert_an_element_in_an_Array
+# Object build statements for EXECUTABLE target 1.insert_an_element_in_an_Array
 
 
 #############################################
-# Order-only phony target for insert_an_element_in_an_Array
+# Order-only phony target for 1.insert_an_element_in_an_Array
 
-build cmake_object_order_depends_target_insert_an_element_in_an_Array: phony || CMakeFiles/insert_an_element_in_an_Array.dir
+build cmake_object_order_depends_target_1.insert_an_element_in_an_Array: phony || CMakeFiles/1.insert_an_element_in_an_Array.dir
 
-build CMakeFiles/insert_an_element_in_an_Array.dir/insert_an_element_in_an_Array.c.obj: C_COMPILER__insert_an_element_in_an_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/insert_an_element_in_an_Array.c || cmake_object_order_depends_target_insert_an_element_in_an_Array
-  DEP_FILE = CMakeFiles\insert_an_element_in_an_Array.dir\insert_an_element_in_an_Array.c.obj.d
+build CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_Array.c.obj: C_COMPILER__1.2einsert_an_element_in_an_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/1.insert_an_element_in_an_Array.c || cmake_object_order_depends_target_1.insert_an_element_in_an_Array
+  DEP_FILE = CMakeFiles\1.insert_an_element_in_an_Array.dir\1.insert_an_element_in_an_Array.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\insert_an_element_in_an_Array.dir
-  OBJECT_FILE_DIR = CMakeFiles\insert_an_element_in_an_Array.dir
+  OBJECT_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
+  OBJECT_FILE_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target insert_an_element_in_an_Array
+# Link build statements for EXECUTABLE target 1.insert_an_element_in_an_Array
 
 
 #############################################
-# Link the executable insert_an_element_in_an_Array.exe
+# Link the executable 1.insert_an_element_in_an_Array.exe
 
-build insert_an_element_in_an_Array.exe: C_EXECUTABLE_LINKER__insert_an_element_in_an_Array_Debug CMakeFiles/insert_an_element_in_an_Array.dir/insert_an_element_in_an_Array.c.obj
+build 1.insert_an_element_in_an_Array.exe: C_EXECUTABLE_LINKER__1.2einsert_an_element_in_an_Array_Debug CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_Array.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\insert_an_element_in_an_Array.dir
+  OBJECT_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = insert_an_element_in_an_Array.exe
-  TARGET_IMPLIB = libinsert_an_element_in_an_Array.dll.a
-  TARGET_PDB = insert_an_element_in_an_Array.exe.dbg
+  TARGET_FILE = 1.insert_an_element_in_an_Array.exe
+  TARGET_IMPLIB = lib1.insert_an_element_in_an_Array.dll.a
+  TARGET_PDB = 1.insert_an_element_in_an_Array.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target highest_marks
+# Object build statements for EXECUTABLE target 2.highest_marks
 
 
 #############################################
-# Order-only phony target for highest_marks
+# Order-only phony target for 2.highest_marks
 
-build cmake_object_order_depends_target_highest_marks: phony || CMakeFiles/highest_marks.dir
+build cmake_object_order_depends_target_2.highest_marks: phony || CMakeFiles/2.highest_marks.dir
 
-build CMakeFiles/highest_marks.dir/highest_marks.c.obj: C_COMPILER__highest_marks_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/highest_marks.c || cmake_object_order_depends_target_highest_marks
-  DEP_FILE = CMakeFiles\highest_marks.dir\highest_marks.c.obj.d
+build CMakeFiles/2.highest_marks.dir/2.highest_marks.c.obj: C_COMPILER__2.2ehighest_marks_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/2.highest_marks.c || cmake_object_order_depends_target_2.highest_marks
+  DEP_FILE = CMakeFiles\2.highest_marks.dir\2.highest_marks.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\highest_marks.dir
-  OBJECT_FILE_DIR = CMakeFiles\highest_marks.dir
+  OBJECT_DIR = CMakeFiles\2.highest_marks.dir
+  OBJECT_FILE_DIR = CMakeFiles\2.highest_marks.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target highest_marks
+# Link build statements for EXECUTABLE target 2.highest_marks
 
 
 #############################################
-# Link the executable highest_marks.exe
+# Link the executable 2.highest_marks.exe
 
-build highest_marks.exe: C_EXECUTABLE_LINKER__highest_marks_Debug CMakeFiles/highest_marks.dir/highest_marks.c.obj
+build 2.highest_marks.exe: C_EXECUTABLE_LINKER__2.2ehighest_marks_Debug CMakeFiles/2.highest_marks.dir/2.highest_marks.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\highest_marks.dir
+  OBJECT_DIR = CMakeFiles\2.highest_marks.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = highest_marks.exe
-  TARGET_IMPLIB = libhighest_marks.dll.a
-  TARGET_PDB = highest_marks.exe.dbg
+  TARGET_FILE = 2.highest_marks.exe
+  TARGET_IMPLIB = lib2.highest_marks.dll.a
+  TARGET_PDB = 2.highest_marks.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target 3x3_Matrix
+# Object build statements for EXECUTABLE target 3.3x3_Matrix
 
 
 #############################################
-# Order-only phony target for 3x3_Matrix
+# Order-only phony target for 3.3x3_Matrix
 
-build cmake_object_order_depends_target_3x3_Matrix: phony || CMakeFiles/3x3_Matrix.dir
+build cmake_object_order_depends_target_3.3x3_Matrix: phony || CMakeFiles/3.3x3_Matrix.dir
 
-build CMakeFiles/3x3_Matrix.dir/3x3_Matrix.c.obj: C_COMPILER__3x3_Matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/3x3_Matrix.c || cmake_object_order_depends_target_3x3_Matrix
-  DEP_FILE = CMakeFiles\3x3_Matrix.dir\3x3_Matrix.c.obj.d
+build CMakeFiles/3.3x3_Matrix.dir/3.3x3_Matrix.c.obj: C_COMPILER__3.2e3x3_Matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/3.3x3_Matrix.c || cmake_object_order_depends_target_3.3x3_Matrix
+  DEP_FILE = CMakeFiles\3.3x3_Matrix.dir\3.3x3_Matrix.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\3x3_Matrix.dir
-  OBJECT_FILE_DIR = CMakeFiles\3x3_Matrix.dir
+  OBJECT_DIR = CMakeFiles\3.3x3_Matrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\3.3x3_Matrix.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target 3x3_Matrix
+# Link build statements for EXECUTABLE target 3.3x3_Matrix
 
 
 #############################################
-# Link the executable 3x3_Matrix.exe
+# Link the executable 3.3x3_Matrix.exe
 
-build 3x3_Matrix.exe: C_EXECUTABLE_LINKER__3x3_Matrix_Debug CMakeFiles/3x3_Matrix.dir/3x3_Matrix.c.obj
+build 3.3x3_Matrix.exe: C_EXECUTABLE_LINKER__3.2e3x3_Matrix_Debug CMakeFiles/3.3x3_Matrix.dir/3.3x3_Matrix.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\3x3_Matrix.dir
+  OBJECT_DIR = CMakeFiles\3.3x3_Matrix.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = 3x3_Matrix.exe
-  TARGET_IMPLIB = lib3x3_Matrix.dll.a
-  TARGET_PDB = 3x3_Matrix.exe.dbg
+  TARGET_FILE = 3.3x3_Matrix.exe
+  TARGET_IMPLIB = lib3.3x3_Matrix.dll.a
+  TARGET_PDB = 3.3x3_Matrix.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target fill_a_square_matrix
+# Object build statements for EXECUTABLE target 4.fill_a_square_matrix
 
 
 #############################################
-# Order-only phony target for fill_a_square_matrix
+# Order-only phony target for 4.fill_a_square_matrix
 
-build cmake_object_order_depends_target_fill_a_square_matrix: phony || CMakeFiles/fill_a_square_matrix.dir
+build cmake_object_order_depends_target_4.fill_a_square_matrix: phony || CMakeFiles/4.fill_a_square_matrix.dir
 
-build CMakeFiles/fill_a_square_matrix.dir/fill_a_square_matrix.c.obj: C_COMPILER__fill_a_square_matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/fill_a_square_matrix.c || cmake_object_order_depends_target_fill_a_square_matrix
-  DEP_FILE = CMakeFiles\fill_a_square_matrix.dir\fill_a_square_matrix.c.obj.d
+build CMakeFiles/4.fill_a_square_matrix.dir/4.fill_a_square_matrix.c.obj: C_COMPILER__4.2efill_a_square_matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/4.fill_a_square_matrix.c || cmake_object_order_depends_target_4.fill_a_square_matrix
+  DEP_FILE = CMakeFiles\4.fill_a_square_matrix.dir\4.fill_a_square_matrix.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\fill_a_square_matrix.dir
-  OBJECT_FILE_DIR = CMakeFiles\fill_a_square_matrix.dir
+  OBJECT_DIR = CMakeFiles\4.fill_a_square_matrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\4.fill_a_square_matrix.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target fill_a_square_matrix
+# Link build statements for EXECUTABLE target 4.fill_a_square_matrix
 
 
 #############################################
-# Link the executable fill_a_square_matrix.exe
+# Link the executable 4.fill_a_square_matrix.exe
 
-build fill_a_square_matrix.exe: C_EXECUTABLE_LINKER__fill_a_square_matrix_Debug CMakeFiles/fill_a_square_matrix.dir/fill_a_square_matrix.c.obj
+build 4.fill_a_square_matrix.exe: C_EXECUTABLE_LINKER__4.2efill_a_square_matrix_Debug CMakeFiles/4.fill_a_square_matrix.dir/4.fill_a_square_matrix.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\fill_a_square_matrix.dir
+  OBJECT_DIR = CMakeFiles\4.fill_a_square_matrix.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = fill_a_square_matrix.exe
-  TARGET_IMPLIB = libfill_a_square_matrix.dll.a
-  TARGET_PDB = fill_a_square_matrix.exe.dbg
+  TARGET_FILE = 4.fill_a_square_matrix.exe
+  TARGET_IMPLIB = lib4.fill_a_square_matrix.dll.a
+  TARGET_PDB = 4.fill_a_square_matrix.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 5.Single_Linked_List
+
+
+#############################################
+# Order-only phony target for 5.Single_Linked_List
+
+build cmake_object_order_depends_target_5.Single_Linked_List: phony || CMakeFiles/5.Single_Linked_List.dir
+
+build CMakeFiles/5.Single_Linked_List.dir/5.Single_Linked_List.c.obj: C_COMPILER__5.2eSingle_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/5.Single_Linked_List.c || cmake_object_order_depends_target_5.Single_Linked_List
+  DEP_FILE = CMakeFiles\5.Single_Linked_List.dir\5.Single_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\5.Single_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\5.Single_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 5.Single_Linked_List
+
+
+#############################################
+# Link the executable 5.Single_Linked_List.exe
+
+build 5.Single_Linked_List.exe: C_EXECUTABLE_LINKER__5.2eSingle_Linked_List_Debug CMakeFiles/5.Single_Linked_List.dir/5.Single_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\5.Single_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 5.Single_Linked_List.exe
+  TARGET_IMPLIB = lib5.Single_Linked_List.dll.a
+  TARGET_PDB = 5.Single_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 6.Circular_Linked_List
+
+
+#############################################
+# Order-only phony target for 6.Circular_Linked_List
+
+build cmake_object_order_depends_target_6.Circular_Linked_List: phony || CMakeFiles/6.Circular_Linked_List.dir
+
+build CMakeFiles/6.Circular_Linked_List.dir/6.Circular_Linked_List.c.obj: C_COMPILER__6.2eCircular_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/6.Circular_Linked_List.c || cmake_object_order_depends_target_6.Circular_Linked_List
+  DEP_FILE = CMakeFiles\6.Circular_Linked_List.dir\6.Circular_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\6.Circular_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\6.Circular_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 6.Circular_Linked_List
+
+
+#############################################
+# Link the executable 6.Circular_Linked_List.exe
+
+build 6.Circular_Linked_List.exe: C_EXECUTABLE_LINKER__6.2eCircular_Linked_List_Debug CMakeFiles/6.Circular_Linked_List.dir/6.Circular_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\6.Circular_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 6.Circular_Linked_List.exe
+  TARGET_IMPLIB = lib6.Circular_Linked_List.dll.a
+  TARGET_PDB = 6.Circular_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 7.Double_Linked_List
+
+
+#############################################
+# Order-only phony target for 7.Double_Linked_List
+
+build cmake_object_order_depends_target_7.Double_Linked_List: phony || CMakeFiles/7.Double_Linked_List.dir
+
+build CMakeFiles/7.Double_Linked_List.dir/7.Double_Linked_List.c.obj: C_COMPILER__7.2eDouble_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/7.Double_Linked_List.c || cmake_object_order_depends_target_7.Double_Linked_List
+  DEP_FILE = CMakeFiles\7.Double_Linked_List.dir\7.Double_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\7.Double_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\7.Double_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 7.Double_Linked_List
+
+
+#############################################
+# Link the executable 7.Double_Linked_List.exe
+
+build 7.Double_Linked_List.exe: C_EXECUTABLE_LINKER__7.2eDouble_Linked_List_Debug CMakeFiles/7.Double_Linked_List.dir/7.Double_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\7.Double_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 7.Double_Linked_List.exe
+  TARGET_IMPLIB = lib7.Double_Linked_List.dll.a
+  TARGET_PDB = 7.Double_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 8.Store_Polynomial
+
+
+#############################################
+# Order-only phony target for 8.Store_Polynomial
+
+build cmake_object_order_depends_target_8.Store_Polynomial: phony || CMakeFiles/8.Store_Polynomial.dir
+
+build CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj: C_COMPILER__8.2eStore_Polynomial_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/8.Store_Polynomial.c || cmake_object_order_depends_target_8.Store_Polynomial
+  DEP_FILE = CMakeFiles\8.Store_Polynomial.dir\8.Store_Polynomial.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\8.Store_Polynomial.dir
+  OBJECT_FILE_DIR = CMakeFiles\8.Store_Polynomial.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 8.Store_Polynomial
+
+
+#############################################
+# Link the executable 8.Store_Polynomial.exe
+
+build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\8.Store_Polynomial.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 8.Store_Polynomial.exe
+  TARGET_IMPLIB = lib8.Store_Polynomial.dll.a
+  TARGET_PDB = 8.Store_Polynomial.exe.dbg
 
 
 #############################################
@@ -198,13 +330,21 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build 3x3_Matrix: phony 3x3_Matrix.exe
+build 1.insert_an_element_in_an_Array: phony 1.insert_an_element_in_an_Array.exe
 
-build fill_a_square_matrix: phony fill_a_square_matrix.exe
+build 2.highest_marks: phony 2.highest_marks.exe
 
-build highest_marks: phony highest_marks.exe
+build 3.3x3_Matrix: phony 3.3x3_Matrix.exe
 
-build insert_an_element_in_an_Array: phony insert_an_element_in_an_Array.exe
+build 4.fill_a_square_matrix: phony 4.fill_a_square_matrix.exe
+
+build 5.Single_Linked_List: phony 5.Single_Linked_List.exe
+
+build 6.Circular_Linked_List: phony 6.Circular_Linked_List.exe
+
+build 7.Double_Linked_List: phony 7.Double_Linked_List.exe
+
+build 8.Store_Polynomial: phony 8.Store_Polynomial.exe
 
 # =============================================================================
 # Folder targets.
@@ -214,7 +354,7 @@ build insert_an_element_in_an_Array: phony insert_an_element_in_an_Array.exe
 #############################################
 # Folder: C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug
 
-build all: phony insert_an_element_in_an_Array.exe highest_marks.exe 3x3_Matrix.exe fill_a_square_matrix.exe
+build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_Matrix.exe 4.fill_a_square_matrix.exe 5.Single_Linked_List.exe 6.Circular_Linked_List.exe 7.Double_Linked_List.exe 8.Store_Polynomial.exe
 
 # =============================================================================
 # Built-in targets
