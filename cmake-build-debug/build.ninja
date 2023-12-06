@@ -304,6 +304,468 @@ build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CM
   TARGET_IMPLIB = lib8.Store_Polynomial.dll.a
   TARGET_PDB = 8.Store_Polynomial.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target 9.Stack_Using_Array
+
+
+#############################################
+# Order-only phony target for 9.Stack_Using_Array
+
+build cmake_object_order_depends_target_9.Stack_Using_Array: phony || CMakeFiles/9.Stack_Using_Array.dir
+
+build CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj: C_COMPILER__9.2eStack_Using_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/9.Stack_Using_Array.c || cmake_object_order_depends_target_9.Stack_Using_Array
+  DEP_FILE = CMakeFiles\9.Stack_Using_Array.dir\9.Stack_Using_Array.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
+  OBJECT_FILE_DIR = CMakeFiles\9.Stack_Using_Array.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 9.Stack_Using_Array
+
+
+#############################################
+# Link the executable 9.Stack_Using_Array.exe
+
+build 9.Stack_Using_Array.exe: C_EXECUTABLE_LINKER__9.2eStack_Using_Array_Debug CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 9.Stack_Using_Array.exe
+  TARGET_IMPLIB = lib9.Stack_Using_Array.dll.a
+  TARGET_PDB = 9.Stack_Using_Array.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 10.Stack_using_Linked_List
+
+
+#############################################
+# Order-only phony target for 10.Stack_using_Linked_List
+
+build cmake_object_order_depends_target_10.Stack_using_Linked_List: phony || CMakeFiles/10.Stack_using_Linked_List.dir
+
+build CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj: C_COMPILER__10.2eStack_using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/10.Stack_using_Linked_List.c || cmake_object_order_depends_target_10.Stack_using_Linked_List
+  DEP_FILE = CMakeFiles\10.Stack_using_Linked_List.dir\10.Stack_using_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 10.Stack_using_Linked_List
+
+
+#############################################
+# Link the executable 10.Stack_using_Linked_List.exe
+
+build 10.Stack_using_Linked_List.exe: C_EXECUTABLE_LINKER__10.2eStack_using_Linked_List_Debug CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 10.Stack_using_Linked_List.exe
+  TARGET_IMPLIB = lib10.Stack_using_Linked_List.dll.a
+  TARGET_PDB = 10.Stack_using_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 11.Prefix_Expression
+
+
+#############################################
+# Order-only phony target for 11.Prefix_Expression
+
+build cmake_object_order_depends_target_11.Prefix_Expression: phony || CMakeFiles/11.Prefix_Expression.dir
+
+build CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj: C_COMPILER__11.2ePrefix_Expression_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/11.Prefix_Expression.c || cmake_object_order_depends_target_11.Prefix_Expression
+  DEP_FILE = CMakeFiles\11.Prefix_Expression.dir\11.Prefix_Expression.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
+  OBJECT_FILE_DIR = CMakeFiles\11.Prefix_Expression.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 11.Prefix_Expression
+
+
+#############################################
+# Link the executable 11.Prefix_Expression.exe
+
+build 11.Prefix_Expression.exe: C_EXECUTABLE_LINKER__11.2ePrefix_Expression_Debug CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 11.Prefix_Expression.exe
+  TARGET_IMPLIB = lib11.Prefix_Expression.dll.a
+  TARGET_PDB = 11.Prefix_Expression.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 12.Lnear_Queue
+
+
+#############################################
+# Order-only phony target for 12.Lnear_Queue
+
+build cmake_object_order_depends_target_12.Lnear_Queue: phony || CMakeFiles/12.Lnear_Queue.dir
+
+build CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj: C_COMPILER__12.2eLnear_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/12.Lnear_Queue.c || cmake_object_order_depends_target_12.Lnear_Queue
+  DEP_FILE = CMakeFiles\12.Lnear_Queue.dir\12.Lnear_Queue.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\12.Lnear_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\12.Lnear_Queue.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 12.Lnear_Queue
+
+
+#############################################
+# Link the executable 12.Lnear_Queue.exe
+
+build 12.Lnear_Queue.exe: C_EXECUTABLE_LINKER__12.2eLnear_Queue_Debug CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\12.Lnear_Queue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 12.Lnear_Queue.exe
+  TARGET_IMPLIB = lib12.Lnear_Queue.dll.a
+  TARGET_PDB = 12.Lnear_Queue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 13.Queue_Using_Linked_List
+
+
+#############################################
+# Order-only phony target for 13.Queue_Using_Linked_List
+
+build cmake_object_order_depends_target_13.Queue_Using_Linked_List: phony || CMakeFiles/13.Queue_Using_Linked_List.dir
+
+build CMakeFiles/13.Queue_Using_Linked_List.dir/13.Queue_Using_Linked_List.c.obj: C_COMPILER__13.2eQueue_Using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/13.Queue_Using_Linked_List.c || cmake_object_order_depends_target_13.Queue_Using_Linked_List
+  DEP_FILE = CMakeFiles\13.Queue_Using_Linked_List.dir\13.Queue_Using_Linked_List.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 13.Queue_Using_Linked_List
+
+
+#############################################
+# Link the executable 13.Queue_Using_Linked_List.exe
+
+build 13.Queue_Using_Linked_List.exe: C_EXECUTABLE_LINKER__13.2eQueue_Using_Linked_List_Debug CMakeFiles/13.Queue_Using_Linked_List.dir/13.Queue_Using_Linked_List.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 13.Queue_Using_Linked_List.exe
+  TARGET_IMPLIB = lib13.Queue_Using_Linked_List.dll.a
+  TARGET_PDB = 13.Queue_Using_Linked_List.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 14.Circular_Queue
+
+
+#############################################
+# Order-only phony target for 14.Circular_Queue
+
+build cmake_object_order_depends_target_14.Circular_Queue: phony || CMakeFiles/14.Circular_Queue.dir
+
+build CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj: C_COMPILER__14.2eCircular_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/14.Circular_Queue.c || cmake_object_order_depends_target_14.Circular_Queue
+  DEP_FILE = CMakeFiles\14.Circular_Queue.dir\14.Circular_Queue.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\14.Circular_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\14.Circular_Queue.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 14.Circular_Queue
+
+
+#############################################
+# Link the executable 14.Circular_Queue.exe
+
+build 14.Circular_Queue.exe: C_EXECUTABLE_LINKER__14.2eCircular_Queue_Debug CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\14.Circular_Queue.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 14.Circular_Queue.exe
+  TARGET_IMPLIB = lib14.Circular_Queue.dll.a
+  TARGET_PDB = 14.Circular_Queue.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 15.BST
+
+
+#############################################
+# Order-only phony target for 15.BST
+
+build cmake_object_order_depends_target_15.BST: phony || CMakeFiles/15.BST.dir
+
+build CMakeFiles/15.BST.dir/15.BST.c.obj: C_COMPILER__15.2eBST_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/15.BST.c || cmake_object_order_depends_target_15.BST
+  DEP_FILE = CMakeFiles\15.BST.dir\15.BST.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\15.BST.dir
+  OBJECT_FILE_DIR = CMakeFiles\15.BST.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 15.BST
+
+
+#############################################
+# Link the executable 15.BST.exe
+
+build 15.BST.exe: C_EXECUTABLE_LINKER__15.2eBST_Debug CMakeFiles/15.BST.dir/15.BST.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\15.BST.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 15.BST.exe
+  TARGET_IMPLIB = lib15.BST.dll.a
+  TARGET_PDB = 15.BST.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 16.Graph
+
+
+#############################################
+# Order-only phony target for 16.Graph
+
+build cmake_object_order_depends_target_16.Graph: phony || CMakeFiles/16.Graph.dir
+
+build CMakeFiles/16.Graph.dir/16.Graph.c.obj: C_COMPILER__16.2eGraph_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/16.Graph.c || cmake_object_order_depends_target_16.Graph
+  DEP_FILE = CMakeFiles\16.Graph.dir\16.Graph.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\16.Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles\16.Graph.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 16.Graph
+
+
+#############################################
+# Link the executable 16.Graph.exe
+
+build 16.Graph.exe: C_EXECUTABLE_LINKER__16.2eGraph_Debug CMakeFiles/16.Graph.dir/16.Graph.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\16.Graph.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 16.Graph.exe
+  TARGET_IMPLIB = lib16.Graph.dll.a
+  TARGET_PDB = 16.Graph.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 17.BFS
+
+
+#############################################
+# Order-only phony target for 17.BFS
+
+build cmake_object_order_depends_target_17.BFS: phony || CMakeFiles/17.BFS.dir
+
+build CMakeFiles/17.BFS.dir/17.BFS.c.obj: C_COMPILER__17.2eBFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/17.BFS.c || cmake_object_order_depends_target_17.BFS
+  DEP_FILE = CMakeFiles\17.BFS.dir\17.BFS.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\17.BFS.dir
+  OBJECT_FILE_DIR = CMakeFiles\17.BFS.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 17.BFS
+
+
+#############################################
+# Link the executable 17.BFS.exe
+
+build 17.BFS.exe: C_EXECUTABLE_LINKER__17.2eBFS_Debug CMakeFiles/17.BFS.dir/17.BFS.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\17.BFS.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 17.BFS.exe
+  TARGET_IMPLIB = lib17.BFS.dll.a
+  TARGET_PDB = 17.BFS.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 18.DFS
+
+
+#############################################
+# Order-only phony target for 18.DFS
+
+build cmake_object_order_depends_target_18.DFS: phony || CMakeFiles/18.DFS.dir
+
+build CMakeFiles/18.DFS.dir/18.DFS.c.obj: C_COMPILER__18.2eDFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/18.DFS.c || cmake_object_order_depends_target_18.DFS
+  DEP_FILE = CMakeFiles\18.DFS.dir\18.DFS.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\18.DFS.dir
+  OBJECT_FILE_DIR = CMakeFiles\18.DFS.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 18.DFS
+
+
+#############################################
+# Link the executable 18.DFS.exe
+
+build 18.DFS.exe: C_EXECUTABLE_LINKER__18.2eDFS_Debug CMakeFiles/18.DFS.dir/18.DFS.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\18.DFS.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 18.DFS.exe
+  TARGET_IMPLIB = lib18.DFS.dll.a
+  TARGET_PDB = 18.DFS.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 19.Bubble_Sort
+
+
+#############################################
+# Order-only phony target for 19.Bubble_Sort
+
+build cmake_object_order_depends_target_19.Bubble_Sort: phony || CMakeFiles/19.Bubble_Sort.dir
+
+build CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj: C_COMPILER__19.2eBubble_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/19.Bubble_Sort.c || cmake_object_order_depends_target_19.Bubble_Sort
+  DEP_FILE = CMakeFiles\19.Bubble_Sort.dir\19.Bubble_Sort.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\19.Bubble_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\19.Bubble_Sort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 19.Bubble_Sort
+
+
+#############################################
+# Link the executable 19.Bubble_Sort.exe
+
+build 19.Bubble_Sort.exe: C_EXECUTABLE_LINKER__19.2eBubble_Sort_Debug CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\19.Bubble_Sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 19.Bubble_Sort.exe
+  TARGET_IMPLIB = lib19.Bubble_Sort.dll.a
+  TARGET_PDB = 19.Bubble_Sort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 20.Insertion_Sort
+
+
+#############################################
+# Order-only phony target for 20.Insertion_Sort
+
+build cmake_object_order_depends_target_20.Insertion_Sort: phony || CMakeFiles/20.Insertion_Sort.dir
+
+build CMakeFiles/20.Insertion_Sort.dir/20.Insertion_Sort.c.obj: C_COMPILER__20.2eInsertion_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/20.Insertion_Sort.c || cmake_object_order_depends_target_20.Insertion_Sort
+  DEP_FILE = CMakeFiles\20.Insertion_Sort.dir\20.Insertion_Sort.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\20.Insertion_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\20.Insertion_Sort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 20.Insertion_Sort
+
+
+#############################################
+# Link the executable 20.Insertion_Sort.exe
+
+build 20.Insertion_Sort.exe: C_EXECUTABLE_LINKER__20.2eInsertion_Sort_Debug CMakeFiles/20.Insertion_Sort.dir/20.Insertion_Sort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\20.Insertion_Sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 20.Insertion_Sort.exe
+  TARGET_IMPLIB = lib20.Insertion_Sort.dll.a
+  TARGET_PDB = 20.Insertion_Sort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 21.Selection_Sort
+
+
+#############################################
+# Order-only phony target for 21.Selection_Sort
+
+build cmake_object_order_depends_target_21.Selection_Sort: phony || CMakeFiles/21.Selection_Sort.dir
+
+build CMakeFiles/21.Selection_Sort.dir/21.Selection_Sort.c.obj: C_COMPILER__21.2eSelection_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/21.Selection_Sort.c || cmake_object_order_depends_target_21.Selection_Sort
+  DEP_FILE = CMakeFiles\21.Selection_Sort.dir\21.Selection_Sort.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\21.Selection_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\21.Selection_Sort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 21.Selection_Sort
+
+
+#############################################
+# Link the executable 21.Selection_Sort.exe
+
+build 21.Selection_Sort.exe: C_EXECUTABLE_LINKER__21.2eSelection_Sort_Debug CMakeFiles/21.Selection_Sort.dir/21.Selection_Sort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\21.Selection_Sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 21.Selection_Sort.exe
+  TARGET_IMPLIB = lib21.Selection_Sort.dll.a
+  TARGET_PDB = 21.Selection_Sort.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 22.Merge_Sort
+
+
+#############################################
+# Order-only phony target for 22.Merge_Sort
+
+build cmake_object_order_depends_target_22.Merge_Sort: phony || CMakeFiles/22.Merge_Sort.dir
+
+build CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj: C_COMPILER__22.2eMerge_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/22.Merge_Sort.c || cmake_object_order_depends_target_22.Merge_Sort
+  DEP_FILE = CMakeFiles\22.Merge_Sort.dir\22.Merge_Sort.c.obj.d
+  FLAGS = -g -std=gnu2x -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\22.Merge_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\22.Merge_Sort.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 22.Merge_Sort
+
+
+#############################################
+# Link the executable 22.Merge_Sort.exe
+
+build 22.Merge_Sort.exe: C_EXECUTABLE_LINKER__22.2eMerge_Sort_Debug CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\22.Merge_Sort.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 22.Merge_Sort.exe
+  TARGET_IMPLIB = lib22.Merge_Sort.dll.a
+  TARGET_PDB = 22.Merge_Sort.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -332,7 +794,33 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build 1.insert_an_element_in_an_Array: phony 1.insert_an_element_in_an_Array.exe
 
+build 10.Stack_using_Linked_List: phony 10.Stack_using_Linked_List.exe
+
+build 11.Prefix_Expression: phony 11.Prefix_Expression.exe
+
+build 12.Lnear_Queue: phony 12.Lnear_Queue.exe
+
+build 13.Queue_Using_Linked_List: phony 13.Queue_Using_Linked_List.exe
+
+build 14.Circular_Queue: phony 14.Circular_Queue.exe
+
+build 15.BST: phony 15.BST.exe
+
+build 16.Graph: phony 16.Graph.exe
+
+build 17.BFS: phony 17.BFS.exe
+
+build 18.DFS: phony 18.DFS.exe
+
+build 19.Bubble_Sort: phony 19.Bubble_Sort.exe
+
 build 2.highest_marks: phony 2.highest_marks.exe
+
+build 20.Insertion_Sort: phony 20.Insertion_Sort.exe
+
+build 21.Selection_Sort: phony 21.Selection_Sort.exe
+
+build 22.Merge_Sort: phony 22.Merge_Sort.exe
 
 build 3.3x3_Matrix: phony 3.3x3_Matrix.exe
 
@@ -346,6 +834,8 @@ build 7.Double_Linked_List: phony 7.Double_Linked_List.exe
 
 build 8.Store_Polynomial: phony 8.Store_Polynomial.exe
 
+build 9.Stack_Using_Array: phony 9.Stack_Using_Array.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -354,7 +844,7 @@ build 8.Store_Polynomial: phony 8.Store_Polynomial.exe
 #############################################
 # Folder: C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug
 
-build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_Matrix.exe 4.fill_a_square_matrix.exe 5.Single_Linked_List.exe 6.Circular_Linked_List.exe 7.Double_Linked_List.exe 8.Store_Polynomial.exe
+build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_Matrix.exe 4.fill_a_square_matrix.exe 5.Single_Linked_List.exe 6.Circular_Linked_List.exe 7.Double_Linked_List.exe 8.Store_Polynomial.exe 9.Stack_Using_Array.exe 10.Stack_using_Linked_List.exe 11.Prefix_Expression.exe 12.Lnear_Queue.exe 13.Queue_Using_Linked_List.exe 14.Circular_Queue.exe 15.BST.exe 16.Graph.exe 17.BFS.exe 18.DFS.exe 19.Bubble_Sort.exe 20.Insertion_Sort.exe 21.Selection_Sort.exe 22.Merge_Sort.exe
 
 # =============================================================================
 # Built-in targets

@@ -6,5 +6,8 @@ C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/5.Single_Linked_
 C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/6.Circular_Linked_List.dir
 C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/7.Double_Linked_List.dir
 C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/8.Store_Polynomial.dir
+C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/9.Stack_Using_Array.dir
+C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/10.Stack_using_Linked_List.dir
+C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/11.Prefix_Expression.dir
 C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
