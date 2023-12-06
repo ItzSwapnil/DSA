@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "DSA",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "1.insert_an_element_in_an_Array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-1.insert_an_element_in_an_Array-Debug-1515a1b08e0993715f29.json",
+					"name" : "1.insert_an_element_in_an_Array",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2.highest_marks::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2.highest_marks-Debug-a5f22c9f5043f67c3d09.json",
+					"name" : "2.highest_marks",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "3.3x3_Matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-3.3x3_Matrix-Debug-5881ebcb7cbd3b6d5b16.json",
+					"name" : "3.3x3_Matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "4.fill_a_square_matrix::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-4.fill_a_square_matrix-Debug-15ed3a55d4de0275fc3e.json",
+					"name" : "4.fill_a_square_matrix",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "5.Single_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-5.Single_Linked_List-Debug-5c99128b2831113be3a5.json",
+					"name" : "5.Single_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "6.Circular_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-6.Circular_Linked_List-Debug-b2eedaf4a92904ff8622.json",
+					"name" : "6.Circular_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "7.Double_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-7.Double_Linked_List-Debug-35e8e7db78dc7756b809.json",
+					"name" : "7.Double_Linked_List",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "8.Store_Polynomial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-8.Store_Polynomial-Debug-e8c5125b6f605c108e96.json",
+					"name" : "8.Store_Polynomial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug",
+		"source" : "C:/Users/Swapnil/CLionProjects/DSA"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

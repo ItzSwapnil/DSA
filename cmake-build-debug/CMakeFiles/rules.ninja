@@ -14,7 +14,7 @@
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__insert_an_element_in_an_Array_unscanned_Debug
+rule C_COMPILER__1.2einsert_an_element_in_an_Array_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -24,7 +24,7 @@ rule C_COMPILER__insert_an_element_in_an_Array_unscanned_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__insert_an_element_in_an_Array_Debug
+rule C_EXECUTABLE_LINKER__1.2einsert_an_element_in_an_Array_Debug
   command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
@@ -33,7 +33,7 @@ rule C_EXECUTABLE_LINKER__insert_an_element_in_an_Array_Debug
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__highest_marks_unscanned_Debug
+rule C_COMPILER__2.2ehighest_marks_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -43,7 +43,7 @@ rule C_COMPILER__highest_marks_unscanned_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__highest_marks_Debug
+rule C_EXECUTABLE_LINKER__2.2ehighest_marks_Debug
   command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
@@ -52,7 +52,7 @@ rule C_EXECUTABLE_LINKER__highest_marks_Debug
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__3x3_Matrix_unscanned_Debug
+rule C_COMPILER__3.2e3x3_Matrix_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -62,7 +62,7 @@ rule C_COMPILER__3x3_Matrix_unscanned_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__3x3_Matrix_Debug
+rule C_EXECUTABLE_LINKER__3.2e3x3_Matrix_Debug
   command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
@@ -71,7 +71,7 @@ rule C_EXECUTABLE_LINKER__3x3_Matrix_Debug
 #############################################
 # Rule for compiling C files.
 
-rule C_COMPILER__fill_a_square_matrix_unscanned_Debug
+rule C_COMPILER__4.2efill_a_square_matrix_unscanned_Debug
   depfile = $DEP_FILE
   deps = gcc
   command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
@@ -81,7 +81,83 @@ rule C_COMPILER__fill_a_square_matrix_unscanned_Debug
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__fill_a_square_matrix_Debug
+rule C_EXECUTABLE_LINKER__4.2efill_a_square_matrix_Debug
+  command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__5.2eSingle_Linked_List_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__5.2eSingle_Linked_List_Debug
+  command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__6.2eCircular_Linked_List_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__6.2eCircular_Linked_List_Debug
+  command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__7.2eDouble_Linked_List_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__7.2eDouble_Linked_List_Debug
+  command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  description = Linking C executable $TARGET_FILE
+  restat = $RESTAT
+
+
+#############################################
+# Rule for compiling C files.
+
+rule C_COMPILER__8.2eStore_Polynomial_unscanned_Debug
+  depfile = $DEP_FILE
+  deps = gcc
+  command = ${LAUNCHER}${CODE_CHECK}C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $DEFINES $INCLUDES $FLAGS -MD -MT $out -MF $DEP_FILE -o $out -c $in
+  description = Building C object $out
+
+
+#############################################
+# Rule for linking C executable.
+
+rule C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug
   command = cmd.exe /C "$PRE_LINK && C:\Users\Swapnil\AppData\Local\Programs\CLIONN~1\bin\mingw\bin\gcc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE -Wl,--out-implib,$TARGET_IMPLIB -Wl,--major-image-version,0,--minor-image-version,0 $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
