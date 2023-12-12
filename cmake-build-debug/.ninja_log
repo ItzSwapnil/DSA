@@ -30,6 +30,7 @@
 4	90	7235512366406151	CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj	a34c6d3c63cac387
 0	104	7240604306533082	CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj	57dfa11c1ef8466e
 2	71	7235653505724850	CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj	e8dc5afbbc214db1
+74	168	7240647845572569	22.Merge_Sort.exe	44ab6f04d3a5a040
 2	72	7235651926674394	CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj	241f0403bb5a0e4a
 81	166	7240625171625245	16.Graph.exe	8d8876be681c9470
 72	146	7235651927374470	10.Stack_using_Linked_List.exe	70fe610dd1547ec8
@@ -38,14 +39,13 @@
 0	60	7235728139780054	CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_Array.c.obj	b5cc6e33c81f9cb2
 0	119	7240600231963870	CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj	fda6321948b2b178
 120	244	7240600233153728	12.Lnear_Queue.exe	9f6ae9ffdef23b7f
+1	74	7240647844668893	CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj	aa2fea628ebc3514
 127	271	7240601987722799	13.Queue_Using_Linked_List.exe	7aa86c71b2809d01
 105	226	7240604307702970	14.Circular_Queue.exe	d84d74bc3ee8dbb
 63	129	7240632385691225	DFS.exe	3be90dd4f0ea52c7
 3	123	7240611465535866	CMakeFiles/15.BST.dir/15.BST.c.obj	db109368fe22b8bb
 2	81	7240625170815229	CMakeFiles/16.Graph.dir/16.Graph.c.obj	3d850663463b21cd
+1	156	7240648654823095	build.ninja	708f681fb0aca3c3
 2	68	7240630708032506	CMakeFiles/17.BFS.dir/17.BFS.c.obj	188142d5da46aca1
 0	63	7240632385071271	CMakeFiles/DFS.dir/DFS.c.obj	c9c829aeb9c35dee
 0	83	7240645759972052	CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj	5ef7697d09fe03ec
-1	156	7240647843188924	build.ninja	708f681fb0aca3c3
-1	74	7240647844668893	CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj	aa2fea628ebc3514
-74	168	7240647845572569	22.Merge_Sort.exe	44ab6f04d3a5a040
