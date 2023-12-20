@@ -1,3 +1,7 @@
+/*
+9) WAP to create a stack using array and perform push, pop operations.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

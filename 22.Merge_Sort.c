@@ -1,3 +1,7 @@
+/*
+22) WAP to sort an array using merge sort.
+*/
+
 #include <stdio.h>
 
 void merge(int arr[], int l, int m, int r) {

@@ -1,3 +1,9 @@
+/*
+14) WAP to implement circular queue and perform the following: 1: insert an element,
+2: delete an element, 3: display the queue, 4: exit. You can take user input based on
+the given choices.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,5 +1,6 @@
-//WAP to transpose a 3X3 matrix.
-
+/*
+3) WAP to transpose a 3X3 matrix.
+*/
 
 #include <stdio.h>
 

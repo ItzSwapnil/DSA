@@ -1,3 +1,9 @@
+/*
+12) WAP to implement a linear queue using array and perform the following: 1:
+insertion element, 2: delete an element, 3: display the queue, 4: exit. You can take
+user input based on the given choices
+*/
+
 #include <stdio.h>
 
 #define MAX_SIZE 10

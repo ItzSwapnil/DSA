@@ -1,3 +1,16 @@
+/*
+15) WAP to create BST (binary search tree) and perform all following operations:
+a. Insert an element
+b. Preorder traversal
+c. In order traversal
+d. Post order traversal
+e. Find smallest element
+f. Find largest element
+g. Delete an element
+h. Count the total number of nodes
+i. Exit
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

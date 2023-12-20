@@ -1,3 +1,7 @@
+/*
+21) WAP to sort an array using selection sort.
+*/
+
 #include <stdio.h>
 
 void selectionSort(int arr[], int n) {

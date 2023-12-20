@@ -1,5 +1,6 @@
-//WAP to insert an element in a specific position of an Array.
-
+/*
+1) WAP to insert an element in a specific position of an Array.
+*/
 #include <stdio.h>
 
 void insertElement(int arr[], int *size, int position, int element) {

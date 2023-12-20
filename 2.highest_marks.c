@@ -1,6 +1,7 @@
-//WAP to read a 2D array marks which stores the marks of 5 students in three subjects.
-//Also, write program to display the highest marks in each subject.
-
+/*
+2) WAP to read a 2D array marks which stores the marks of 5 students in three subjects.
+Also, write program to display the highest marks in each subject.
+*/
 
 
 #include <stdio.h>

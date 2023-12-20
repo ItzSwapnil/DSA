@@ -1,3 +1,7 @@
+/*
+10) WAP to implement stack using linked list and perform push, pop operations.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

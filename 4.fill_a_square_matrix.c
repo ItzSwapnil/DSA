@@ -1,6 +1,7 @@
-//WAP to fill a square matrix with value 0(zero) on the diagonals,
-//value 1 on the upper right triangle and value -1 on the lower left triangle.
-
+/*
+4) WAP to fill a square matrix with value 0(zero) on the diagonals,
+value 1 on the upper right triangle and value -1 on the lower left triangle.
+*/
 
 #include <stdio.h>
 

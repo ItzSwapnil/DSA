@@ -1,3 +1,7 @@
+/*
+18) WAP to implement Depth First Search.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

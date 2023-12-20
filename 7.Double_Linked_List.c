@@ -1,3 +1,11 @@
+/*
+7) WAP to create a Double Linked List and perform the following operations: (Options:
+1: create a list containing 08 values/nodes, 2:display the list, 3: add/insert a node at
+the beginning, 4: add/insert a node at the end, 5: add/insert node at a particular
+position/location, 6: delete a node from the beginning, 7: delete a node from the
+end, 8: delete a node from a particular position/location, 9: reverse the list, 10:exit).
+You can take user input based on the given choices.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 

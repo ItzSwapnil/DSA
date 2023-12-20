@@ -1,3 +1,8 @@
+/*
+16) WAP to create a graph of n vertices using an adjacency list. Also write the code to
+read and print its information
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

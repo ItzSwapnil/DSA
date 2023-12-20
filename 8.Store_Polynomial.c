@@ -1,3 +1,7 @@
+/*
+8) WAP to store polynomial using linked list and perform addition.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
