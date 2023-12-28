@@ -3,7 +3,7 @@
 
 Infix to Postfix table
 
-Sr No       Expression      Stack       Postfix
+Sr No       Expression          Stack       Postfix
 0               A                           A
 1               +               +           A
 2               B               +           AB
