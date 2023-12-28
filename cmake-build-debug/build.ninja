@@ -49,11 +49,11 @@ cmake_ninja_workdir = C$:/Users/Swapnil/CLionProjects/DSA/cmake-build-debug/
 
 build cmake_object_order_depends_target_1.insert_an_element_in_an_Array: phony || CMakeFiles/1.insert_an_element_in_an_Array.dir
 
-build CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_Array.c.obj: C_COMPILER__1.2einsert_an_element_in_an_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/1.insert_an_element_in_an_Array.c || cmake_object_order_depends_target_1.insert_an_element_in_an_Array
-  DEP_FILE = CMakeFiles\1.insert_an_element_in_an_Array.dir\1.insert_an_element_in_an_Array.c.obj.d
+build CMakeFiles/1.insert_an_element_in_an_Array.dir/Practical/1.insert_an_element_in_an_Array.c.obj: C_COMPILER__1.2einsert_an_element_in_an_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/1.insert_an_element_in_an_Array.c || cmake_object_order_depends_target_1.insert_an_element_in_an_Array
+  DEP_FILE = CMakeFiles\1.insert_an_element_in_an_Array.dir\Practical\1.insert_an_element_in_an_Array.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
-  OBJECT_FILE_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
+  OBJECT_FILE_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir\Practical
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_A
 #############################################
 # Link the executable 1.insert_an_element_in_an_Array.exe
 
-build 1.insert_an_element_in_an_Array.exe: C_EXECUTABLE_LINKER__1.2einsert_an_element_in_an_Array_Debug CMakeFiles/1.insert_an_element_in_an_Array.dir/1.insert_an_element_in_an_Array.c.obj
+build 1.insert_an_element_in_an_Array.exe: C_EXECUTABLE_LINKER__1.2einsert_an_element_in_an_Array_Debug CMakeFiles/1.insert_an_element_in_an_Array.dir/Practical/1.insert_an_element_in_an_Array.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\1.insert_an_element_in_an_Array.dir
@@ -82,11 +82,11 @@ build 1.insert_an_element_in_an_Array.exe: C_EXECUTABLE_LINKER__1.2einsert_an_el
 
 build cmake_object_order_depends_target_2.highest_marks: phony || CMakeFiles/2.highest_marks.dir
 
-build CMakeFiles/2.highest_marks.dir/2.highest_marks.c.obj: C_COMPILER__2.2ehighest_marks_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/2.highest_marks.c || cmake_object_order_depends_target_2.highest_marks
-  DEP_FILE = CMakeFiles\2.highest_marks.dir\2.highest_marks.c.obj.d
+build CMakeFiles/2.highest_marks.dir/Practical/2.highest_marks.c.obj: C_COMPILER__2.2ehighest_marks_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/2.highest_marks.c || cmake_object_order_depends_target_2.highest_marks
+  DEP_FILE = CMakeFiles\2.highest_marks.dir\Practical\2.highest_marks.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\2.highest_marks.dir
-  OBJECT_FILE_DIR = CMakeFiles\2.highest_marks.dir
+  OBJECT_FILE_DIR = CMakeFiles\2.highest_marks.dir\Practical
 
 
 # =============================================================================
@@ -96,7 +96,7 @@ build CMakeFiles/2.highest_marks.dir/2.highest_marks.c.obj: C_COMPILER__2.2ehigh
 #############################################
 # Link the executable 2.highest_marks.exe
 
-build 2.highest_marks.exe: C_EXECUTABLE_LINKER__2.2ehighest_marks_Debug CMakeFiles/2.highest_marks.dir/2.highest_marks.c.obj
+build 2.highest_marks.exe: C_EXECUTABLE_LINKER__2.2ehighest_marks_Debug CMakeFiles/2.highest_marks.dir/Practical/2.highest_marks.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\2.highest_marks.dir
@@ -115,11 +115,11 @@ build 2.highest_marks.exe: C_EXECUTABLE_LINKER__2.2ehighest_marks_Debug CMakeFil
 
 build cmake_object_order_depends_target_3.3x3_Matrix: phony || CMakeFiles/3.3x3_Matrix.dir
 
-build CMakeFiles/3.3x3_Matrix.dir/3.3x3_Matrix.c.obj: C_COMPILER__3.2e3x3_Matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/3.3x3_Matrix.c || cmake_object_order_depends_target_3.3x3_Matrix
-  DEP_FILE = CMakeFiles\3.3x3_Matrix.dir\3.3x3_Matrix.c.obj.d
+build CMakeFiles/3.3x3_Matrix.dir/Practical/3.3x3_Matrix.c.obj: C_COMPILER__3.2e3x3_Matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/3.3x3_Matrix.c || cmake_object_order_depends_target_3.3x3_Matrix
+  DEP_FILE = CMakeFiles\3.3x3_Matrix.dir\Practical\3.3x3_Matrix.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\3.3x3_Matrix.dir
-  OBJECT_FILE_DIR = CMakeFiles\3.3x3_Matrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\3.3x3_Matrix.dir\Practical
 
 
 # =============================================================================
@@ -129,7 +129,7 @@ build CMakeFiles/3.3x3_Matrix.dir/3.3x3_Matrix.c.obj: C_COMPILER__3.2e3x3_Matrix
 #############################################
 # Link the executable 3.3x3_Matrix.exe
 
-build 3.3x3_Matrix.exe: C_EXECUTABLE_LINKER__3.2e3x3_Matrix_Debug CMakeFiles/3.3x3_Matrix.dir/3.3x3_Matrix.c.obj
+build 3.3x3_Matrix.exe: C_EXECUTABLE_LINKER__3.2e3x3_Matrix_Debug CMakeFiles/3.3x3_Matrix.dir/Practical/3.3x3_Matrix.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\3.3x3_Matrix.dir
@@ -148,11 +148,11 @@ build 3.3x3_Matrix.exe: C_EXECUTABLE_LINKER__3.2e3x3_Matrix_Debug CMakeFiles/3.3
 
 build cmake_object_order_depends_target_4.fill_a_square_matrix: phony || CMakeFiles/4.fill_a_square_matrix.dir
 
-build CMakeFiles/4.fill_a_square_matrix.dir/4.fill_a_square_matrix.c.obj: C_COMPILER__4.2efill_a_square_matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/4.fill_a_square_matrix.c || cmake_object_order_depends_target_4.fill_a_square_matrix
-  DEP_FILE = CMakeFiles\4.fill_a_square_matrix.dir\4.fill_a_square_matrix.c.obj.d
+build CMakeFiles/4.fill_a_square_matrix.dir/Practical/4.fill_a_square_matrix.c.obj: C_COMPILER__4.2efill_a_square_matrix_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/4.fill_a_square_matrix.c || cmake_object_order_depends_target_4.fill_a_square_matrix
+  DEP_FILE = CMakeFiles\4.fill_a_square_matrix.dir\Practical\4.fill_a_square_matrix.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\4.fill_a_square_matrix.dir
-  OBJECT_FILE_DIR = CMakeFiles\4.fill_a_square_matrix.dir
+  OBJECT_FILE_DIR = CMakeFiles\4.fill_a_square_matrix.dir\Practical
 
 
 # =============================================================================
@@ -162,7 +162,7 @@ build CMakeFiles/4.fill_a_square_matrix.dir/4.fill_a_square_matrix.c.obj: C_COMP
 #############################################
 # Link the executable 4.fill_a_square_matrix.exe
 
-build 4.fill_a_square_matrix.exe: C_EXECUTABLE_LINKER__4.2efill_a_square_matrix_Debug CMakeFiles/4.fill_a_square_matrix.dir/4.fill_a_square_matrix.c.obj
+build 4.fill_a_square_matrix.exe: C_EXECUTABLE_LINKER__4.2efill_a_square_matrix_Debug CMakeFiles/4.fill_a_square_matrix.dir/Practical/4.fill_a_square_matrix.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\4.fill_a_square_matrix.dir
@@ -181,11 +181,11 @@ build 4.fill_a_square_matrix.exe: C_EXECUTABLE_LINKER__4.2efill_a_square_matrix_
 
 build cmake_object_order_depends_target_5.Single_Linked_List: phony || CMakeFiles/5.Single_Linked_List.dir
 
-build CMakeFiles/5.Single_Linked_List.dir/5.Single_Linked_List.c.obj: C_COMPILER__5.2eSingle_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/5.Single_Linked_List.c || cmake_object_order_depends_target_5.Single_Linked_List
-  DEP_FILE = CMakeFiles\5.Single_Linked_List.dir\5.Single_Linked_List.c.obj.d
+build CMakeFiles/5.Single_Linked_List.dir/Practical/5.Single_Linked_List.c.obj: C_COMPILER__5.2eSingle_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/5.Single_Linked_List.c || cmake_object_order_depends_target_5.Single_Linked_List
+  DEP_FILE = CMakeFiles\5.Single_Linked_List.dir\Practical\5.Single_Linked_List.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\5.Single_Linked_List.dir
-  OBJECT_FILE_DIR = CMakeFiles\5.Single_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\5.Single_Linked_List.dir\Practical
 
 
 # =============================================================================
@@ -195,7 +195,7 @@ build CMakeFiles/5.Single_Linked_List.dir/5.Single_Linked_List.c.obj: C_COMPILER
 #############################################
 # Link the executable 5.Single_Linked_List.exe
 
-build 5.Single_Linked_List.exe: C_EXECUTABLE_LINKER__5.2eSingle_Linked_List_Debug CMakeFiles/5.Single_Linked_List.dir/5.Single_Linked_List.c.obj
+build 5.Single_Linked_List.exe: C_EXECUTABLE_LINKER__5.2eSingle_Linked_List_Debug CMakeFiles/5.Single_Linked_List.dir/Practical/5.Single_Linked_List.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\5.Single_Linked_List.dir
@@ -214,11 +214,11 @@ build 5.Single_Linked_List.exe: C_EXECUTABLE_LINKER__5.2eSingle_Linked_List_Debu
 
 build cmake_object_order_depends_target_6.Circular_Linked_List: phony || CMakeFiles/6.Circular_Linked_List.dir
 
-build CMakeFiles/6.Circular_Linked_List.dir/6.Circular_Linked_List.c.obj: C_COMPILER__6.2eCircular_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/6.Circular_Linked_List.c || cmake_object_order_depends_target_6.Circular_Linked_List
-  DEP_FILE = CMakeFiles\6.Circular_Linked_List.dir\6.Circular_Linked_List.c.obj.d
+build CMakeFiles/6.Circular_Linked_List.dir/Practical/6.Circular_Linked_List.c.obj: C_COMPILER__6.2eCircular_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/6.Circular_Linked_List.c || cmake_object_order_depends_target_6.Circular_Linked_List
+  DEP_FILE = CMakeFiles\6.Circular_Linked_List.dir\Practical\6.Circular_Linked_List.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\6.Circular_Linked_List.dir
-  OBJECT_FILE_DIR = CMakeFiles\6.Circular_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\6.Circular_Linked_List.dir\Practical
 
 
 # =============================================================================
@@ -228,7 +228,7 @@ build CMakeFiles/6.Circular_Linked_List.dir/6.Circular_Linked_List.c.obj: C_COMP
 #############################################
 # Link the executable 6.Circular_Linked_List.exe
 
-build 6.Circular_Linked_List.exe: C_EXECUTABLE_LINKER__6.2eCircular_Linked_List_Debug CMakeFiles/6.Circular_Linked_List.dir/6.Circular_Linked_List.c.obj
+build 6.Circular_Linked_List.exe: C_EXECUTABLE_LINKER__6.2eCircular_Linked_List_Debug CMakeFiles/6.Circular_Linked_List.dir/Practical/6.Circular_Linked_List.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\6.Circular_Linked_List.dir
@@ -247,11 +247,11 @@ build 6.Circular_Linked_List.exe: C_EXECUTABLE_LINKER__6.2eCircular_Linked_List_
 
 build cmake_object_order_depends_target_7.Double_Linked_List: phony || CMakeFiles/7.Double_Linked_List.dir
 
-build CMakeFiles/7.Double_Linked_List.dir/7.Double_Linked_List.c.obj: C_COMPILER__7.2eDouble_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/7.Double_Linked_List.c || cmake_object_order_depends_target_7.Double_Linked_List
-  DEP_FILE = CMakeFiles\7.Double_Linked_List.dir\7.Double_Linked_List.c.obj.d
+build CMakeFiles/7.Double_Linked_List.dir/Practical/7.Double_Linked_List.c.obj: C_COMPILER__7.2eDouble_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/7.Double_Linked_List.c || cmake_object_order_depends_target_7.Double_Linked_List
+  DEP_FILE = CMakeFiles\7.Double_Linked_List.dir\Practical\7.Double_Linked_List.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\7.Double_Linked_List.dir
-  OBJECT_FILE_DIR = CMakeFiles\7.Double_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\7.Double_Linked_List.dir\Practical
 
 
 # =============================================================================
@@ -261,7 +261,7 @@ build CMakeFiles/7.Double_Linked_List.dir/7.Double_Linked_List.c.obj: C_COMPILER
 #############################################
 # Link the executable 7.Double_Linked_List.exe
 
-build 7.Double_Linked_List.exe: C_EXECUTABLE_LINKER__7.2eDouble_Linked_List_Debug CMakeFiles/7.Double_Linked_List.dir/7.Double_Linked_List.c.obj
+build 7.Double_Linked_List.exe: C_EXECUTABLE_LINKER__7.2eDouble_Linked_List_Debug CMakeFiles/7.Double_Linked_List.dir/Practical/7.Double_Linked_List.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\7.Double_Linked_List.dir
@@ -280,11 +280,11 @@ build 7.Double_Linked_List.exe: C_EXECUTABLE_LINKER__7.2eDouble_Linked_List_Debu
 
 build cmake_object_order_depends_target_8.Store_Polynomial: phony || CMakeFiles/8.Store_Polynomial.dir
 
-build CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj: C_COMPILER__8.2eStore_Polynomial_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/8.Store_Polynomial.c || cmake_object_order_depends_target_8.Store_Polynomial
-  DEP_FILE = CMakeFiles\8.Store_Polynomial.dir\8.Store_Polynomial.c.obj.d
+build CMakeFiles/8.Store_Polynomial.dir/Practical/8.Store_Polynomial.c.obj: C_COMPILER__8.2eStore_Polynomial_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/8.Store_Polynomial.c || cmake_object_order_depends_target_8.Store_Polynomial
+  DEP_FILE = CMakeFiles\8.Store_Polynomial.dir\Practical\8.Store_Polynomial.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\8.Store_Polynomial.dir
-  OBJECT_FILE_DIR = CMakeFiles\8.Store_Polynomial.dir
+  OBJECT_FILE_DIR = CMakeFiles\8.Store_Polynomial.dir\Practical
 
 
 # =============================================================================
@@ -294,7 +294,7 @@ build CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj: C_COMPILER__8.
 #############################################
 # Link the executable 8.Store_Polynomial.exe
 
-build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CMakeFiles/8.Store_Polynomial.dir/8.Store_Polynomial.c.obj
+build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CMakeFiles/8.Store_Polynomial.dir/Practical/8.Store_Polynomial.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\8.Store_Polynomial.dir
@@ -313,11 +313,11 @@ build 8.Store_Polynomial.exe: C_EXECUTABLE_LINKER__8.2eStore_Polynomial_Debug CM
 
 build cmake_object_order_depends_target_9.Stack_Using_Array: phony || CMakeFiles/9.Stack_Using_Array.dir
 
-build CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj: C_COMPILER__9.2eStack_Using_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/9.Stack_Using_Array.c || cmake_object_order_depends_target_9.Stack_Using_Array
-  DEP_FILE = CMakeFiles\9.Stack_Using_Array.dir\9.Stack_Using_Array.c.obj.d
+build CMakeFiles/9.Stack_Using_Array.dir/Practical/9.Stack_Using_Array.c.obj: C_COMPILER__9.2eStack_Using_Array_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/9.Stack_Using_Array.c || cmake_object_order_depends_target_9.Stack_Using_Array
+  DEP_FILE = CMakeFiles\9.Stack_Using_Array.dir\Practical\9.Stack_Using_Array.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
-  OBJECT_FILE_DIR = CMakeFiles\9.Stack_Using_Array.dir
+  OBJECT_FILE_DIR = CMakeFiles\9.Stack_Using_Array.dir\Practical
 
 
 # =============================================================================
@@ -327,7 +327,7 @@ build CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj: C_COMPILER__
 #############################################
 # Link the executable 9.Stack_Using_Array.exe
 
-build 9.Stack_Using_Array.exe: C_EXECUTABLE_LINKER__9.2eStack_Using_Array_Debug CMakeFiles/9.Stack_Using_Array.dir/9.Stack_Using_Array.c.obj
+build 9.Stack_Using_Array.exe: C_EXECUTABLE_LINKER__9.2eStack_Using_Array_Debug CMakeFiles/9.Stack_Using_Array.dir/Practical/9.Stack_Using_Array.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\9.Stack_Using_Array.dir
@@ -346,11 +346,11 @@ build 9.Stack_Using_Array.exe: C_EXECUTABLE_LINKER__9.2eStack_Using_Array_Debug 
 
 build cmake_object_order_depends_target_10.Stack_using_Linked_List: phony || CMakeFiles/10.Stack_using_Linked_List.dir
 
-build CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj: C_COMPILER__10.2eStack_using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/10.Stack_using_Linked_List.c || cmake_object_order_depends_target_10.Stack_using_Linked_List
-  DEP_FILE = CMakeFiles\10.Stack_using_Linked_List.dir\10.Stack_using_Linked_List.c.obj.d
+build CMakeFiles/10.Stack_using_Linked_List.dir/Practical/10.Stack_using_Linked_List.c.obj: C_COMPILER__10.2eStack_using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/10.Stack_using_Linked_List.c || cmake_object_order_depends_target_10.Stack_using_Linked_List
+  DEP_FILE = CMakeFiles\10.Stack_using_Linked_List.dir\Practical\10.Stack_using_Linked_List.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
-  OBJECT_FILE_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\10.Stack_using_Linked_List.dir\Practical
 
 
 # =============================================================================
@@ -360,7 +360,7 @@ build CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj
 #############################################
 # Link the executable 10.Stack_using_Linked_List.exe
 
-build 10.Stack_using_Linked_List.exe: C_EXECUTABLE_LINKER__10.2eStack_using_Linked_List_Debug CMakeFiles/10.Stack_using_Linked_List.dir/10.Stack_using_Linked_List.c.obj
+build 10.Stack_using_Linked_List.exe: C_EXECUTABLE_LINKER__10.2eStack_using_Linked_List_Debug CMakeFiles/10.Stack_using_Linked_List.dir/Practical/10.Stack_using_Linked_List.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\10.Stack_using_Linked_List.dir
@@ -379,11 +379,11 @@ build 10.Stack_using_Linked_List.exe: C_EXECUTABLE_LINKER__10.2eStack_using_Link
 
 build cmake_object_order_depends_target_11.Prefix_Expression: phony || CMakeFiles/11.Prefix_Expression.dir
 
-build CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj: C_COMPILER__11.2ePrefix_Expression_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/11.Prefix_Expression.c || cmake_object_order_depends_target_11.Prefix_Expression
-  DEP_FILE = CMakeFiles\11.Prefix_Expression.dir\11.Prefix_Expression.c.obj.d
+build CMakeFiles/11.Prefix_Expression.dir/Practical/11.Prefix_Expression.c.obj: C_COMPILER__11.2ePrefix_Expression_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/11.Prefix_Expression.c || cmake_object_order_depends_target_11.Prefix_Expression
+  DEP_FILE = CMakeFiles\11.Prefix_Expression.dir\Practical\11.Prefix_Expression.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
-  OBJECT_FILE_DIR = CMakeFiles\11.Prefix_Expression.dir
+  OBJECT_FILE_DIR = CMakeFiles\11.Prefix_Expression.dir\Practical
 
 
 # =============================================================================
@@ -393,7 +393,7 @@ build CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj: C_COMPILER
 #############################################
 # Link the executable 11.Prefix_Expression.exe
 
-build 11.Prefix_Expression.exe: C_EXECUTABLE_LINKER__11.2ePrefix_Expression_Debug CMakeFiles/11.Prefix_Expression.dir/11.Prefix_Expression.c.obj
+build 11.Prefix_Expression.exe: C_EXECUTABLE_LINKER__11.2ePrefix_Expression_Debug CMakeFiles/11.Prefix_Expression.dir/Practical/11.Prefix_Expression.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\11.Prefix_Expression.dir
@@ -412,11 +412,11 @@ build 11.Prefix_Expression.exe: C_EXECUTABLE_LINKER__11.2ePrefix_Expression_Debu
 
 build cmake_object_order_depends_target_12.Lnear_Queue: phony || CMakeFiles/12.Lnear_Queue.dir
 
-build CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj: C_COMPILER__12.2eLnear_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/12.Lnear_Queue.c || cmake_object_order_depends_target_12.Lnear_Queue
-  DEP_FILE = CMakeFiles\12.Lnear_Queue.dir\12.Lnear_Queue.c.obj.d
+build CMakeFiles/12.Lnear_Queue.dir/Practical/12.Lnear_Queue.c.obj: C_COMPILER__12.2eLnear_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/12.Lnear_Queue.c || cmake_object_order_depends_target_12.Lnear_Queue
+  DEP_FILE = CMakeFiles\12.Lnear_Queue.dir\Practical\12.Lnear_Queue.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\12.Lnear_Queue.dir
-  OBJECT_FILE_DIR = CMakeFiles\12.Lnear_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\12.Lnear_Queue.dir\Practical
 
 
 # =============================================================================
@@ -426,7 +426,7 @@ build CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj: C_COMPILER__12.2eLnear
 #############################################
 # Link the executable 12.Lnear_Queue.exe
 
-build 12.Lnear_Queue.exe: C_EXECUTABLE_LINKER__12.2eLnear_Queue_Debug CMakeFiles/12.Lnear_Queue.dir/12.Lnear_Queue.c.obj
+build 12.Lnear_Queue.exe: C_EXECUTABLE_LINKER__12.2eLnear_Queue_Debug CMakeFiles/12.Lnear_Queue.dir/Practical/12.Lnear_Queue.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\12.Lnear_Queue.dir
@@ -445,11 +445,11 @@ build 12.Lnear_Queue.exe: C_EXECUTABLE_LINKER__12.2eLnear_Queue_Debug CMakeFiles
 
 build cmake_object_order_depends_target_13.Queue_Using_Linked_List: phony || CMakeFiles/13.Queue_Using_Linked_List.dir
 
-build CMakeFiles/13.Queue_Using_Linked_List.dir/13.Queue_Using_Linked_List.c.obj: C_COMPILER__13.2eQueue_Using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/13.Queue_Using_Linked_List.c || cmake_object_order_depends_target_13.Queue_Using_Linked_List
-  DEP_FILE = CMakeFiles\13.Queue_Using_Linked_List.dir\13.Queue_Using_Linked_List.c.obj.d
+build CMakeFiles/13.Queue_Using_Linked_List.dir/Practical/13.Queue_Using_Linked_List.c.obj: C_COMPILER__13.2eQueue_Using_Linked_List_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/13.Queue_Using_Linked_List.c || cmake_object_order_depends_target_13.Queue_Using_Linked_List
+  DEP_FILE = CMakeFiles\13.Queue_Using_Linked_List.dir\Practical\13.Queue_Using_Linked_List.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
-  OBJECT_FILE_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
+  OBJECT_FILE_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir\Practical
 
 
 # =============================================================================
@@ -459,7 +459,7 @@ build CMakeFiles/13.Queue_Using_Linked_List.dir/13.Queue_Using_Linked_List.c.obj
 #############################################
 # Link the executable 13.Queue_Using_Linked_List.exe
 
-build 13.Queue_Using_Linked_List.exe: C_EXECUTABLE_LINKER__13.2eQueue_Using_Linked_List_Debug CMakeFiles/13.Queue_Using_Linked_List.dir/13.Queue_Using_Linked_List.c.obj
+build 13.Queue_Using_Linked_List.exe: C_EXECUTABLE_LINKER__13.2eQueue_Using_Linked_List_Debug CMakeFiles/13.Queue_Using_Linked_List.dir/Practical/13.Queue_Using_Linked_List.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\13.Queue_Using_Linked_List.dir
@@ -478,11 +478,11 @@ build 13.Queue_Using_Linked_List.exe: C_EXECUTABLE_LINKER__13.2eQueue_Using_Link
 
 build cmake_object_order_depends_target_14.Circular_Queue: phony || CMakeFiles/14.Circular_Queue.dir
 
-build CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj: C_COMPILER__14.2eCircular_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/14.Circular_Queue.c || cmake_object_order_depends_target_14.Circular_Queue
-  DEP_FILE = CMakeFiles\14.Circular_Queue.dir\14.Circular_Queue.c.obj.d
+build CMakeFiles/14.Circular_Queue.dir/Practical/14.Circular_Queue.c.obj: C_COMPILER__14.2eCircular_Queue_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/14.Circular_Queue.c || cmake_object_order_depends_target_14.Circular_Queue
+  DEP_FILE = CMakeFiles\14.Circular_Queue.dir\Practical\14.Circular_Queue.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\14.Circular_Queue.dir
-  OBJECT_FILE_DIR = CMakeFiles\14.Circular_Queue.dir
+  OBJECT_FILE_DIR = CMakeFiles\14.Circular_Queue.dir\Practical
 
 
 # =============================================================================
@@ -492,7 +492,7 @@ build CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj: C_COMPILER__14.2
 #############################################
 # Link the executable 14.Circular_Queue.exe
 
-build 14.Circular_Queue.exe: C_EXECUTABLE_LINKER__14.2eCircular_Queue_Debug CMakeFiles/14.Circular_Queue.dir/14.Circular_Queue.c.obj
+build 14.Circular_Queue.exe: C_EXECUTABLE_LINKER__14.2eCircular_Queue_Debug CMakeFiles/14.Circular_Queue.dir/Practical/14.Circular_Queue.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\14.Circular_Queue.dir
@@ -511,11 +511,11 @@ build 14.Circular_Queue.exe: C_EXECUTABLE_LINKER__14.2eCircular_Queue_Debug CMak
 
 build cmake_object_order_depends_target_15.BST: phony || CMakeFiles/15.BST.dir
 
-build CMakeFiles/15.BST.dir/15.BST.c.obj: C_COMPILER__15.2eBST_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/15.BST.c || cmake_object_order_depends_target_15.BST
-  DEP_FILE = CMakeFiles\15.BST.dir\15.BST.c.obj.d
+build CMakeFiles/15.BST.dir/Practical/15.BST.c.obj: C_COMPILER__15.2eBST_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/15.BST.c || cmake_object_order_depends_target_15.BST
+  DEP_FILE = CMakeFiles\15.BST.dir\Practical\15.BST.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\15.BST.dir
-  OBJECT_FILE_DIR = CMakeFiles\15.BST.dir
+  OBJECT_FILE_DIR = CMakeFiles\15.BST.dir\Practical
 
 
 # =============================================================================
@@ -525,7 +525,7 @@ build CMakeFiles/15.BST.dir/15.BST.c.obj: C_COMPILER__15.2eBST_unscanned_Debug C
 #############################################
 # Link the executable 15.BST.exe
 
-build 15.BST.exe: C_EXECUTABLE_LINKER__15.2eBST_Debug CMakeFiles/15.BST.dir/15.BST.c.obj
+build 15.BST.exe: C_EXECUTABLE_LINKER__15.2eBST_Debug CMakeFiles/15.BST.dir/Practical/15.BST.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\15.BST.dir
@@ -544,11 +544,11 @@ build 15.BST.exe: C_EXECUTABLE_LINKER__15.2eBST_Debug CMakeFiles/15.BST.dir/15.B
 
 build cmake_object_order_depends_target_16.Graph: phony || CMakeFiles/16.Graph.dir
 
-build CMakeFiles/16.Graph.dir/16.Graph.c.obj: C_COMPILER__16.2eGraph_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/16.Graph.c || cmake_object_order_depends_target_16.Graph
-  DEP_FILE = CMakeFiles\16.Graph.dir\16.Graph.c.obj.d
+build CMakeFiles/16.Graph.dir/Practical/16.Graph.c.obj: C_COMPILER__16.2eGraph_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/16.Graph.c || cmake_object_order_depends_target_16.Graph
+  DEP_FILE = CMakeFiles\16.Graph.dir\Practical\16.Graph.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\16.Graph.dir
-  OBJECT_FILE_DIR = CMakeFiles\16.Graph.dir
+  OBJECT_FILE_DIR = CMakeFiles\16.Graph.dir\Practical
 
 
 # =============================================================================
@@ -558,7 +558,7 @@ build CMakeFiles/16.Graph.dir/16.Graph.c.obj: C_COMPILER__16.2eGraph_unscanned_D
 #############################################
 # Link the executable 16.Graph.exe
 
-build 16.Graph.exe: C_EXECUTABLE_LINKER__16.2eGraph_Debug CMakeFiles/16.Graph.dir/16.Graph.c.obj
+build 16.Graph.exe: C_EXECUTABLE_LINKER__16.2eGraph_Debug CMakeFiles/16.Graph.dir/Practical/16.Graph.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\16.Graph.dir
@@ -577,11 +577,11 @@ build 16.Graph.exe: C_EXECUTABLE_LINKER__16.2eGraph_Debug CMakeFiles/16.Graph.di
 
 build cmake_object_order_depends_target_17.BFS: phony || CMakeFiles/17.BFS.dir
 
-build CMakeFiles/17.BFS.dir/17.BFS.c.obj: C_COMPILER__17.2eBFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/17.BFS.c || cmake_object_order_depends_target_17.BFS
-  DEP_FILE = CMakeFiles\17.BFS.dir\17.BFS.c.obj.d
+build CMakeFiles/17.BFS.dir/Practical/17.BFS.c.obj: C_COMPILER__17.2eBFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/17.BFS.c || cmake_object_order_depends_target_17.BFS
+  DEP_FILE = CMakeFiles\17.BFS.dir\Practical\17.BFS.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\17.BFS.dir
-  OBJECT_FILE_DIR = CMakeFiles\17.BFS.dir
+  OBJECT_FILE_DIR = CMakeFiles\17.BFS.dir\Practical
 
 
 # =============================================================================
@@ -591,7 +591,7 @@ build CMakeFiles/17.BFS.dir/17.BFS.c.obj: C_COMPILER__17.2eBFS_unscanned_Debug C
 #############################################
 # Link the executable 17.BFS.exe
 
-build 17.BFS.exe: C_EXECUTABLE_LINKER__17.2eBFS_Debug CMakeFiles/17.BFS.dir/17.BFS.c.obj
+build 17.BFS.exe: C_EXECUTABLE_LINKER__17.2eBFS_Debug CMakeFiles/17.BFS.dir/Practical/17.BFS.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\17.BFS.dir
@@ -610,11 +610,11 @@ build 17.BFS.exe: C_EXECUTABLE_LINKER__17.2eBFS_Debug CMakeFiles/17.BFS.dir/17.B
 
 build cmake_object_order_depends_target_18.DFS: phony || CMakeFiles/18.DFS.dir
 
-build CMakeFiles/18.DFS.dir/18.DFS.c.obj: C_COMPILER__18.2eDFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/18.DFS.c || cmake_object_order_depends_target_18.DFS
-  DEP_FILE = CMakeFiles\18.DFS.dir\18.DFS.c.obj.d
+build CMakeFiles/18.DFS.dir/Practical/18.DFS.c.obj: C_COMPILER__18.2eDFS_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/18.DFS.c || cmake_object_order_depends_target_18.DFS
+  DEP_FILE = CMakeFiles\18.DFS.dir\Practical\18.DFS.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\18.DFS.dir
-  OBJECT_FILE_DIR = CMakeFiles\18.DFS.dir
+  OBJECT_FILE_DIR = CMakeFiles\18.DFS.dir\Practical
 
 
 # =============================================================================
@@ -624,7 +624,7 @@ build CMakeFiles/18.DFS.dir/18.DFS.c.obj: C_COMPILER__18.2eDFS_unscanned_Debug C
 #############################################
 # Link the executable 18.DFS.exe
 
-build 18.DFS.exe: C_EXECUTABLE_LINKER__18.2eDFS_Debug CMakeFiles/18.DFS.dir/18.DFS.c.obj
+build 18.DFS.exe: C_EXECUTABLE_LINKER__18.2eDFS_Debug CMakeFiles/18.DFS.dir/Practical/18.DFS.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\18.DFS.dir
@@ -643,11 +643,11 @@ build 18.DFS.exe: C_EXECUTABLE_LINKER__18.2eDFS_Debug CMakeFiles/18.DFS.dir/18.D
 
 build cmake_object_order_depends_target_19.Bubble_Sort: phony || CMakeFiles/19.Bubble_Sort.dir
 
-build CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj: C_COMPILER__19.2eBubble_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/19.Bubble_Sort.c || cmake_object_order_depends_target_19.Bubble_Sort
-  DEP_FILE = CMakeFiles\19.Bubble_Sort.dir\19.Bubble_Sort.c.obj.d
+build CMakeFiles/19.Bubble_Sort.dir/Practical/19.Bubble_Sort.c.obj: C_COMPILER__19.2eBubble_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/19.Bubble_Sort.c || cmake_object_order_depends_target_19.Bubble_Sort
+  DEP_FILE = CMakeFiles\19.Bubble_Sort.dir\Practical\19.Bubble_Sort.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\19.Bubble_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\19.Bubble_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\19.Bubble_Sort.dir\Practical
 
 
 # =============================================================================
@@ -657,7 +657,7 @@ build CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj: C_COMPILER__19.2eBubbl
 #############################################
 # Link the executable 19.Bubble_Sort.exe
 
-build 19.Bubble_Sort.exe: C_EXECUTABLE_LINKER__19.2eBubble_Sort_Debug CMakeFiles/19.Bubble_Sort.dir/19.Bubble_Sort.c.obj
+build 19.Bubble_Sort.exe: C_EXECUTABLE_LINKER__19.2eBubble_Sort_Debug CMakeFiles/19.Bubble_Sort.dir/Practical/19.Bubble_Sort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\19.Bubble_Sort.dir
@@ -676,11 +676,11 @@ build 19.Bubble_Sort.exe: C_EXECUTABLE_LINKER__19.2eBubble_Sort_Debug CMakeFiles
 
 build cmake_object_order_depends_target_20.Insertion_Sort: phony || CMakeFiles/20.Insertion_Sort.dir
 
-build CMakeFiles/20.Insertion_Sort.dir/20.Insertion_Sort.c.obj: C_COMPILER__20.2eInsertion_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/20.Insertion_Sort.c || cmake_object_order_depends_target_20.Insertion_Sort
-  DEP_FILE = CMakeFiles\20.Insertion_Sort.dir\20.Insertion_Sort.c.obj.d
+build CMakeFiles/20.Insertion_Sort.dir/Practical/20.Insertion_Sort.c.obj: C_COMPILER__20.2eInsertion_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/20.Insertion_Sort.c || cmake_object_order_depends_target_20.Insertion_Sort
+  DEP_FILE = CMakeFiles\20.Insertion_Sort.dir\Practical\20.Insertion_Sort.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\20.Insertion_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\20.Insertion_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\20.Insertion_Sort.dir\Practical
 
 
 # =============================================================================
@@ -690,7 +690,7 @@ build CMakeFiles/20.Insertion_Sort.dir/20.Insertion_Sort.c.obj: C_COMPILER__20.2
 #############################################
 # Link the executable 20.Insertion_Sort.exe
 
-build 20.Insertion_Sort.exe: C_EXECUTABLE_LINKER__20.2eInsertion_Sort_Debug CMakeFiles/20.Insertion_Sort.dir/20.Insertion_Sort.c.obj
+build 20.Insertion_Sort.exe: C_EXECUTABLE_LINKER__20.2eInsertion_Sort_Debug CMakeFiles/20.Insertion_Sort.dir/Practical/20.Insertion_Sort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\20.Insertion_Sort.dir
@@ -709,11 +709,11 @@ build 20.Insertion_Sort.exe: C_EXECUTABLE_LINKER__20.2eInsertion_Sort_Debug CMak
 
 build cmake_object_order_depends_target_21.Selection_Sort: phony || CMakeFiles/21.Selection_Sort.dir
 
-build CMakeFiles/21.Selection_Sort.dir/21.Selection_Sort.c.obj: C_COMPILER__21.2eSelection_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/21.Selection_Sort.c || cmake_object_order_depends_target_21.Selection_Sort
-  DEP_FILE = CMakeFiles\21.Selection_Sort.dir\21.Selection_Sort.c.obj.d
+build CMakeFiles/21.Selection_Sort.dir/Practical/21.Selection_Sort.c.obj: C_COMPILER__21.2eSelection_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/21.Selection_Sort.c || cmake_object_order_depends_target_21.Selection_Sort
+  DEP_FILE = CMakeFiles\21.Selection_Sort.dir\Practical\21.Selection_Sort.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\21.Selection_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\21.Selection_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\21.Selection_Sort.dir\Practical
 
 
 # =============================================================================
@@ -723,7 +723,7 @@ build CMakeFiles/21.Selection_Sort.dir/21.Selection_Sort.c.obj: C_COMPILER__21.2
 #############################################
 # Link the executable 21.Selection_Sort.exe
 
-build 21.Selection_Sort.exe: C_EXECUTABLE_LINKER__21.2eSelection_Sort_Debug CMakeFiles/21.Selection_Sort.dir/21.Selection_Sort.c.obj
+build 21.Selection_Sort.exe: C_EXECUTABLE_LINKER__21.2eSelection_Sort_Debug CMakeFiles/21.Selection_Sort.dir/Practical/21.Selection_Sort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\21.Selection_Sort.dir
@@ -742,11 +742,11 @@ build 21.Selection_Sort.exe: C_EXECUTABLE_LINKER__21.2eSelection_Sort_Debug CMak
 
 build cmake_object_order_depends_target_22.Merge_Sort: phony || CMakeFiles/22.Merge_Sort.dir
 
-build CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj: C_COMPILER__22.2eMerge_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/22.Merge_Sort.c || cmake_object_order_depends_target_22.Merge_Sort
-  DEP_FILE = CMakeFiles\22.Merge_Sort.dir\22.Merge_Sort.c.obj.d
+build CMakeFiles/22.Merge_Sort.dir/Practical/22.Merge_Sort.c.obj: C_COMPILER__22.2eMerge_Sort_unscanned_Debug C$:/Users/Swapnil/CLionProjects/DSA/Practical/22.Merge_Sort.c || cmake_object_order_depends_target_22.Merge_Sort
+  DEP_FILE = CMakeFiles\22.Merge_Sort.dir\Practical\22.Merge_Sort.c.obj.d
   FLAGS = -g -std=gnu2x -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\22.Merge_Sort.dir
-  OBJECT_FILE_DIR = CMakeFiles\22.Merge_Sort.dir
+  OBJECT_FILE_DIR = CMakeFiles\22.Merge_Sort.dir\Practical
 
 
 # =============================================================================
@@ -756,7 +756,7 @@ build CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj: C_COMPILER__22.2eMerge_S
 #############################################
 # Link the executable 22.Merge_Sort.exe
 
-build 22.Merge_Sort.exe: C_EXECUTABLE_LINKER__22.2eMerge_Sort_Debug CMakeFiles/22.Merge_Sort.dir/22.Merge_Sort.c.obj
+build 22.Merge_Sort.exe: C_EXECUTABLE_LINKER__22.2eMerge_Sort_Debug CMakeFiles/22.Merge_Sort.dir/Practical/22.Merge_Sort.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\22.Merge_Sort.dir
@@ -853,14 +853,14 @@ build all: phony 1.insert_an_element_in_an_Array.exe 2.highest_marks.exe 3.3x3_M
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Users/Swapnil/CLionProjects/DSA/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeRCCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Users/Swapnil/CLionProjects/DSA/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Users/Swapnil/CLionProjects/DSA/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.0/CMakeCCompiler.cmake CMakeFiles/3.27.0/CMakeRCCompiler.cmake CMakeFiles/3.27.0/CMakeSystem.cmake: phony
+build C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeGenericSystem.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeInitializeConfigs.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeLanguageInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeRCInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Compiler/GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-GNU.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-Initialize.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows-windres.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/Windows.cmake C$:/Users/Swapnil/AppData/Local/Programs/CLion$ Nova/bin/cmake/win/x64/share/cmake-3.27/Modules/Platform/WindowsPaths.cmake C$:/Users/Swapnil/CLionProjects/DSA/CMakeLists.txt CMakeCache.txt CMakeFiles/3.27.8/CMakeCCompiler.cmake CMakeFiles/3.27.8/CMakeRCCompiler.cmake CMakeFiles/3.27.8/CMakeSystem.cmake: phony
 
 
 #############################################

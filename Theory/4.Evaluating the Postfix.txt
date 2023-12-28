@@ -1,0 +1,14 @@
+4. What will be the result of evaluating the postfix expression 10 5 + 60 6/ * 8 – ?
+
+
+Expression     Stack
+    10          10
+    5           10 5
+    +           10 5 + = 10+5 = 15
+    60          15 60
+    6           15 60 6
+    /           15 60 6/ = 15 10
+    *           15 10 * = 15 * 10 = 150
+    8           150 8
+    -           150 8 - = 150 - 8 = 142
+

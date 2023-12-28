@@ -1,0 +1,40 @@
+1. Write an algorithm to implement stack using linked list.
+
+
+1. Define Node Structure:
+Create a Node structure to represent each element of the stack.
+Each Node has two fields:
+data: Stores the element's value.
+next: Pointer to the next node in the linked list.
+
+2. Initialize Stack:
+Create a Stack structure with a pointer top to represent the top element of the stack.
+Initially, set top to NULL to indicate an empty stack.
+
+3. push(data) Operation:
+Create a new Node with the given data.
+If the stack is empty (top is NULL):
+Set the new_node's next pointer to NULL.
+Set top to point to the new_node.
+Else:
+Set the new_node's next pointer to the current top.
+Set top to point to the new_node.
+
+4. pop() Operation:
+If the stack is empty (top is NULL):
+Return NULL to indicate an empty stack.
+Else:
+Store the data of the top node in a temporary variable.
+Set top to point to the next node of the current top.
+Free the memory of the old top node.
+Return the stored data.
+
+5. peek() Operation:
+If the stack is empty (top is NULL):
+Return NULL to indicate an empty stack.
+Else:
+Return the data of the top node without removing it.
+
+6. isEmpty() Operation:
+Return true if top is NULL (stack is empty), otherwise return false.
+
