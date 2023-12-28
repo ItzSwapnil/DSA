@@ -3,18 +3,18 @@
 
 Infix to Postfix table
 
-Sr No	Expression    Stack		Postfix
-0			    A			        			A
+Sr No	    Expression        Stack	       Postfix
+0		        A			        		A
 1			    +		       +		  	A
-2			    B			     +		  	AB
-3			    			        			AB+
+2			    B			   +		  	AB
+3			    			       			AB+
 4			    *		       *		  	AB+
-5			    C			     *		  	AB+C
+5			    C			   *		  	AB+C
 6						         	      	AB+C*
-7			    –			     –			  AB+C*
-8			    D			     –			  AB+C* D
-9			    /			     –/		    AB+C* D
-10		  	E		       –/		    AB+C* DE
-11			  *		       –*		    AB+C* DE/
-12			  H			     –*		    AB+C* DE/H
+7			    –			   –			AB+C*
+8			    D			   –			AB+C* D
+9			    /			   –/		    AB+C* D
+10		    	E		       –/		    AB+C* DE
+11			    *		       –*		    AB+C* DE/
+12			    H			   –*		    AB+C* DE/H
 13						            		AB+C* DE/H*–
