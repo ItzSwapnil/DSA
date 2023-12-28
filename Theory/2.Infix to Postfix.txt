@@ -10,7 +10,7 @@ Sr No       Expression          Stack       Postfix
 3                                           AB+
 4               *               *           AB+
 5               C               *           AB+C
-6               		                    AB+C*
+6              		                    AB+C*
 7               –               –           AB+C*
 8               D               –           AB+C* D
 9               /               –/          AB+C* D
